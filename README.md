@@ -1,0 +1,2 @@
+# TAS2560_512kSBCLK
+TAS2560 cfg for BCLK = 512kHz, WCLK = 16kHz, 16 bit data
